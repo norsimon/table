@@ -1,3 +1,9 @@
+
+_2021-04-23: This repo is archived.
+
+All material and activity moved to https://github.com/NEUBIAS/neubias_reproducible_software/
+_
+
 This repo contains, in its wiki, tables of bioimage-analysis software.
 The tables indicate the degree of reproducibility supported by the software.
 
